@@ -10,4 +10,4 @@
 > java1.8<br>
 > springboot2.3.4<br>
 > javascript, jquery<br>
-> tymeleaf<br>
+> thymeleaf<br>
